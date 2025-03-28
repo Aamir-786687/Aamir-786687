@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
 ## ⚡ GitHub Stats
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-kumar-upadhyay&show_icons=true&theme=radical)
+![Aamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aamir-786687&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-upadhyay&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
