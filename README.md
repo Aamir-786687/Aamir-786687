@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
 - 🔹 [*Jio Cinema*](https://jiocinemaclone-eta.vercel.app/)  
  Developed a React-based streaming application allowing users to browse movies, TV shows, and sports.  
-  [GitHub]([https://github.com/MSDIANOP/QuizMaster](https://github.com/Aamir-786687/Projects_Solo/tree/main/Jio_Cinema))
+  [GitHub](https://github.com/Aamir-786687/Projects_Solo/tree/main/Jio_Cinema)
 
 - 🔹 [*Ebay Clone*](https://splendorous-granita-1d775f.netlify.app/index.html)  
   Implemented secure login and registration usingFirebase Authentication for user security.
