@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
 ![Aamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aamir-786687&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-786687&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-786687&layout=compact&theme=radical)
 
 ---
 
