@@ -71,7 +71,6 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 - 🌱 Learn TypeScript & Tailwind CSS
 - 💡 Contribute to open-source
 - 🎯 Secure a frontend dev role
-- 🧩 Build a SaaS product
 
 ---
 
