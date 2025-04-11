@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
 - 📧 Email: [aamir557ahmad@gmail.com](mailto:aamir557ahmad@gmail.com)
 - 💼 LinkedIn: [Aamir Ahmad](https://www.linkedin.com/in/ah-aamir/)
-- 🌐 Portfolio: []()
+- 🌐 Portfolio: [Aamir' Portfolio](https://personlaportfolio.vercel.app/)
 
 ---
 
