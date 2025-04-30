@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
   Developed a functional cart and checkoutsystem with item management and order processing.  
   [GitHub](https://github.com/Rajghosh786/B42_WEB_004_FrontendFanatics_Ebay)
 
-- 🔹 [*Shopkart (Flipkart Clone)*](https://github.com/Ashish-kumar-upadhyay/Clone-Meesho-website)  
+- 🔹 [*Shopkart (Flipkart Clone)*](https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective)  
   Replicated Flipkart features using HTML, CSS, and JavaScript for front-end development.
 
 ---
