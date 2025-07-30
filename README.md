@@ -41,6 +41,8 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
  🔹 [*Chat-GPT Clone*]()  
   Replicated Chat GPT features using React, Tailwind CSS and JavaScript and 2 LLM's for users to get answers.
+  [GitHub](https://github.com/Aamir-786687/ChatGpt_Clone/tree/main/chatgpt-clone)
+  
 
  🔹 [*Jio Cinema*](https://jio-hotstar-nine.vercel.app/)  
  Developed a React-based streaming application allowing users to browse movies, TV shows, and sports.  
@@ -53,6 +55,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
  🔹 [*Shopkart (Flipkart Clone)*]([https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective](https://shopcart.netlify.app/))  
   Replicated Flipkart features using HTML, CSS, and JavaScript for front-end development.
+  [GitHub](https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective/tree/main/ShopKart.com)
 
 ---
 
