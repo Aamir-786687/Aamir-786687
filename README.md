@@ -59,7 +59,8 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
  🔹 [*Shopkart (Flipkart Clone)*]([https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective](https://shopcart.netlify.app/))  
   Replicated Flipkart features using HTML, CSS, and JavaScript for front-end development.
   
-    [GitHub](https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective/tree/main/ShopKart.com)
+   [GitHub](https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective/tree/main/ShopKart.com)
+  
 
 ---
 
