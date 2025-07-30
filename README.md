@@ -41,21 +41,21 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
  🔹 [*Chat-GPT Clone*]()  
   Replicated Chat GPT features using React, Tailwind CSS and JavaScript and 2 LLM's for users to get answers.
-  [GitHub](https://github.com/Aamir-786687/ChatGpt_Clone/tree/main/chatgpt-clone)
+ - [GitHub](https://github.com/Aamir-786687/ChatGpt_Clone/tree/main/chatgpt-clone)
   
 
  🔹 [*Jio Cinema*](https://jio-hotstar-nine.vercel.app/)  
  Developed a React-based streaming application allowing users to browse movies, TV shows, and sports.  
-  [GitHub](https://github.com/Aamir-786687/Jio-Hotstar)
+ - [GitHub](https://github.com/Aamir-786687/Jio-Hotstar)
 
  🔹 [*Ebay Clone*](https://splendorous-granita-1d775f.netlify.app/index.html)  
   Implemented secure login and registration usingFirebase Authentication for user security.
   Developed a functional cart and checkoutsystem with item management and order processing.  
-  [GitHub](https://github.com/Rajghosh786/B42_WEB_004_FrontendFanatics_Ebay)
+-  [GitHub](https://github.com/Rajghosh786/B42_WEB_004_FrontendFanatics_Ebay)
 
  🔹 [*Shopkart (Flipkart Clone)*]([https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective](https://shopcart.netlify.app/))  
   Replicated Flipkart features using HTML, CSS, and JavaScript for front-end development.
-  [GitHub](https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective/tree/main/ShopKart.com)
+ - [GitHub](https://github.com/ShivamSingh0111/B41_WEB015_The-Coder-Collective/tree/main/ShopKart.com)
 
 ---
 
