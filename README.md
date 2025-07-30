@@ -39,6 +39,9 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
 ## 🚀 Projects:
 
+- 🔹 [*Chat-GPT Clone*]()  
+  Replicated Chat GPT features using React, Tailwind CSS and JavaScript and 2 LLM's for users to get answers.
+
 - 🔹 [*Jio Cinema*](https://jio-hotstar-nine.vercel.app/)  
  Developed a React-based streaming application allowing users to browse movies, TV shows, and sports.  
   [GitHub](https://github.com/Aamir-786687/Jio-Hotstar)
