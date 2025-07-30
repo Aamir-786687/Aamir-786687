@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a stron
 
 - 🎓 Graduated with B.com(Hons.) Degree
 - 🔭 Currently building apps that improve productivity and user engagement.
-- 💻 Skilled in *HTML, CSS, JavaScript, React, Redux, and **Firebase* for backend-as-a-service.
+- 💻 Skilled in HTML, CSS, JavaScript, React, Redux, and Firebase for backend-as-a-service.
 - 🚀 Practicing *Data Structures & Algorithms* to sharpen problem-solving.
 - 🧠 Always learning and adapting to new technologies.
 - 🌍 From New Delhi, Delhi – Fitness and tech enthusiast!
