@@ -1,6 +1,6 @@
 # Hi there, I'm Aamir! 👋
 
-Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a strong foundation in *HTML, CSS, JavaScript, and frameworks like *React. I'm currently upskilling through intensive training at **Masai School*, and I love building scalable, real-world applications.
+Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a strong foundation in *HTML, CSS, JavaScript, and frameworks like React*. I'm currently upskilling through intensive training at **Masai School*, and I love building scalable, real-world applications.
 
 ---
 
