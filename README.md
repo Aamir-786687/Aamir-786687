@@ -1,6 +1,6 @@
 # Hi there, I'm Aamir! 👋
 
-Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a strong foundation in *HTML, CSS, JavaScript, and frameworks like React*. I'm currently upskilling through intensive training at **Masai School*, and I love building scalable, real-world applications.
+I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) background. Skilled in HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, and Firebase, I enjoy building scalable web applications that enhance productivity and engagement. Passionate about problem-solving, fitness, and continuous learning.
 
 ---
 
@@ -19,7 +19,7 @@ I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) ba
 
 ## 🛠️ Tech Stack:
 
-### Frontend & Tools:
+### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -27,6 +27,8 @@ I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) ba
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+
+### Backend: 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
