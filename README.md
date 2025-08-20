@@ -1,10 +1,12 @@
 # Hi there, I'm Aamir! 👋
 
-Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a strong foundation in *HTML, CSS, JavaScript, and frameworks like **React. I'm currently upskilling through intensive training at **Masai School*, and I love building scalable, real-world applications.
+Welcome to my GitHub profile! I'm a passionate *Frontend Developer* with a strong foundation in *HTML, CSS, JavaScript, and frameworks like *React. I'm currently upskilling through intensive training at **Masai School*, and I love building scalable, real-world applications.
 
 ---
 
 ## 🌟 About Me:
+
+I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) background. Skilled in HTML, CSS, JavaScript, React, Redux, and Firebase, I enjoy building apps that enhance productivity and engagement. Passionate about problem-solving, fitness, and continuous learning.
 
 - 🎓 Graduated with B.com(Hons.) Degree
 - 🔭 Currently building apps that improve productivity and user engagement.
