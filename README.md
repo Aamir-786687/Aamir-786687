@@ -43,7 +43,7 @@ I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) ba
 
 ## 🚀 Projects:
 
- 🔹 [*Chat-GPT Clone*]()  
+ 🔹 [*Chat-GPT Clone*](https://chat-gpt-clone-delta-beryl.vercel.app/)  
   Replicated Chat GPT features using React, Tailwind CSS and JavaScript and 2 LLM's for users to get answers.
   
    [GitHub](https://github.com/Aamir-786687/ChatGpt_Clone/tree/main/chatgpt-clone)
