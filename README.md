@@ -6,8 +6,6 @@ I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) ba
 
 ## 🌟 About Me:
 
-I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) background. Skilled in HTML, CSS, JavaScript, React, Redux, and Firebase, I enjoy building apps that enhance productivity and engagement. Passionate about problem-solving, fitness, and continuous learning.
-
 - 🎓 Graduated with B.com(Hons.) Degree
 - 🔭 Currently building apps that improve productivity and user engagement.
 - 💻 Skilled in HTML, CSS, JavaScript, React, Redux, and Firebase for backend-as-a-service.
