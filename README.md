@@ -1,17 +1,18 @@
 # Hi there, I'm Aamir! 👋
 
-I’m Aamir Ahmad, a Full Stack Developer from New Delhi with a B.Com (Hons.) background. Skilled in HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, and Firebase, I enjoy building scalable web applications that enhance productivity and engagement. Passionate about problem-solving, fitness, and continuous learning.
+I’m Aamir Ahmad, a Full Stack Developer from New Delhi, currently pursuing a Master of Computer Applications (MCA) and working as a Full Stack Developer at Pycron Developers. Skilled in HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, MySQL, and Firebase, I enjoy building scalable and user-friendly web applications that enhance productivity and engagement. I’m passionate about problem-solving, fitness, and continuous learning.
 
 ---
 
 ## 🌟 About Me:
 
-- 🎓 Graduated with B.com(Hons.) Degree
-- 🔭 Currently building apps that improve productivity and user engagement.
-- 💻 Skilled in HTML, CSS, JavaScript, React, Redux, and Firebase for backend-as-a-service.
-- 🚀 Practicing *Data Structures & Algorithms* to sharpen problem-solving.
-- 🧠 Always learning and adapting to new technologies.
-- 🌍 From New Delhi, Delhi – Fitness and tech enthusiast!
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)**.
+- 💼 Working as a **Full Stack Developer at Pycron Developers**.
+- 🔭 Building scalable web applications that improve productivity and user engagement.
+- 💻 Skilled in **HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, MySQL, and Firebase**.
+- 🚀 Practicing **Data Structures & Algorithms** to sharpen problem-solving skills.
+- 🧠 Always learning, adapting to new technologies, and improving as a developer.
+- 🌍 From **New Delhi, Delhi** – Fitness and tech enthusiast!
 
 ---
 
