@@ -26,6 +26,8 @@ I’m Aamir Ahmad, a Full Stack Developer from New Delhi, currently pursuing a M
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%23039BE5.svg?style=flat-square&logo=flutter&logoColor=white)
+
 
 ### Backend: 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -37,6 +39,7 @@ I’m Aamir Ahmad, a Full Stack Developer from New Delhi, currently pursuing a M
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-61DAFB?style=flat-square&logo=AWS&logoColor=black)
 
 ---
 
